@@ -29,7 +29,7 @@ namespace SFML_Game
 
         Texture _texture;
 
-        Sprite _sprite;
+        //Sprite _sprite;
         IntRect _rect;
 
         float speed = 1000;
@@ -37,6 +37,7 @@ namespace SFML_Game
         {
             _texture = new Texture("Assets/CharacterSheet.png");
             _sprite = new Sprite(_texture);
+            
             animations.Add(new Animation(_texture, new Vector2i(432, 720), new Vector2i(0, 10), new Vector2i(1, 11)));
             animations.Add(new Animation(_texture, new Vector2i(432, 720), new Vector2i(0, 0), new Vector2i(1, 12),1));
             animations.Add(new Animation(_texture, new Vector2i(432, 720), new Vector2i(1, 0), new Vector2i(2, 12)));
@@ -50,7 +51,20 @@ namespace SFML_Game
             _body.Position = new Vector2f(posX, posY);
 
             _sprite.Position = _body.Position;
+            physicsOn = true;
+
         }
+
+        public RectangleShape GetBody()
+        {
+            return _body;
+        }
+
+        public override void OnCollision(GameObject other)
+        {
+            Console.WriteLine("Player is Colliding");
+        }
+
         public void Update(Time deltaTime)
         {
             Vector2f direction = new Vector2f();
@@ -85,6 +99,7 @@ namespace SFML_Game
             {
                 currentState = State.Idle;
             }
+            _sprite.Scale = new Vector2f(0.2f, 0.2f);
             _sprite.Position = _body.Position;
             _sprite = animations[(int)currentState].Update(deltaTime);
         }

@@ -13,4 +13,5 @@ namespace SFML_Game
         public abstract void Update(Time deltaTime);
         public abstract void Draw(RenderWindow playerWindow);
     }
+
 }
