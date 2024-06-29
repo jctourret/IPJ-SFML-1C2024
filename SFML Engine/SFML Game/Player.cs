@@ -21,16 +21,10 @@ namespace SFML_Game
             Right,
             Up,
         }
-        public RectangleShape _body;
 
         List<Animation> animations = new List<Animation>();
 
         State currentState = State.Down;
-
-        Texture _texture;
-
-        //Sprite _sprite;
-        IntRect _rect;
 
         float speed = 1000;
         public Player(float posX, float posY)
@@ -46,11 +40,12 @@ namespace SFML_Game
 
             _sprite.Origin = new Vector2f (_texture.Size.X /2, _texture.Size.Y/2);
 
-            _body = new RectangleShape(new Vector2f(_texture.Size.X, _texture.Size.Y));
-            _body.Origin = new Vector2f(_body.Size.X / 2, _body.Size.Y / 2);
+            _body = new RectangleShape(new Vector2f(100,100));
             _body.Position = new Vector2f(posX, posY);
 
             _sprite.Position = _body.Position;
+
+            _physType = CollisionsHandler.PhysicsType.Dynamic;
             physicsOn = true;
 
         }
@@ -58,11 +53,6 @@ namespace SFML_Game
         public RectangleShape GetBody()
         {
             return _body;
-        }
-
-        public override void OnCollision(GameObject other)
-        {
-            Console.WriteLine("Player is Colliding");
         }
 
         public void Update(Time deltaTime)
@@ -106,8 +96,23 @@ namespace SFML_Game
         public void Draw(RenderWindow playerWindow)
         {
             //Dibujamos nuestro Player
-            //playerWindow.Draw(_body);
+            playerWindow.Draw(_body);
             playerWindow.Draw(_sprite);
+        }
+
+        public override void OnCollisionEnter(GameObject other)
+        {
+            Console.WriteLine("Player has entered collision");
+        }
+
+        public override void OnCollisionStay(GameObject other)
+        {
+            Console.WriteLine("Player is Colliding");
+        }
+
+        public override void OnCollisionExit(GameObject other)
+        {
+            Console.WriteLine("Player has exited collision");
         }
     }
 }

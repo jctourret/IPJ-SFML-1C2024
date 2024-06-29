@@ -9,27 +9,42 @@ namespace SFML_Game
         {
             _texture = new Texture("Assets/Rock.png");
             _sprite = new Sprite(_texture);
-            physicsOn = true;
-
             _sprite.Position = new Vector2f(PosX, PosY);
+            _body = new RectangleShape(new Vector2f(50, 50));
+            _body.Position = _sprite.Position;
+
+            _physType = CollisionsHandler.PhysicsType.Static;
+
+            physicsOn = true;
         }
-        public override void OnCollision(GameObject other)
+
+        public void Update(Time deltaTime)
         {
-            Console.WriteLine("Interactable is Colliding");
+            _sprite.Position=_body.Position;
+        }
+
+        public void Draw(RenderWindow window)
+        {
+            window.Draw(_body);
+            window.Draw(_sprite);
+        }
+
+        public override void OnCollisionEnter(GameObject other)
+        {
             if (other is Player)
             {
                 _sprite.Color = Color.Blue;
             }
         }
 
-        public void Update(Time deltaTime, Player player)
+        public override void OnCollisionStay(GameObject other)
         {
-
+            
         }
 
-        public void Draw(RenderWindow window)
+        public override void OnCollisionExit(GameObject other)
         {
-            window.Draw(_sprite);
+            _sprite.Color = Color.White;
         }
     }
 }

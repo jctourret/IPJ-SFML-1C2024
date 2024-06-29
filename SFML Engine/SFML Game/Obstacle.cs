@@ -1,30 +1,27 @@
 ﻿using SFML.Graphics;
 using SFML.System;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SFML_Game
 {
-    internal class Hazard : GameObject
+    internal class Obstacle : GameObject
     {
-        public Hazard(float PosX, float PosY)
+
+        public Obstacle(float PosX, float PosY)
         {
             _texture = new Texture("Assets/Rock.png");
             _sprite = new Sprite(_texture);
             _sprite.Position = new Vector2f(PosX, PosY);
 
-            _body = new RectangleShape(new Vector2f(28, 28));
+            _body = new RectangleShape(new Vector2f(50, 50));
             _body.Position = _sprite.Position;
 
-            _physType = CollisionsHandler.PhysicsType.None;
+            _physType = CollisionsHandler.PhysicsType.Dynamic;
             physicsOn = false;
-        }
-
-        public override void OnCollisionStay(GameObject other)
-        {
-            Console.WriteLine("Hazard is Colliding");
-            if (other is Player)
-            {
-                _sprite.Color = Color.Red;
-            }
         }
 
         public void Update(Time deltaTime)
@@ -39,6 +36,9 @@ namespace SFML_Game
         }
 
         public override void OnCollisionEnter(GameObject other)
+        {
+        }
+        public override void OnCollisionStay(GameObject other)
         {
         }
 

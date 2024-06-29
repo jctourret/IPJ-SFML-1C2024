@@ -1,4 +1,5 @@
 ﻿using SFML.Graphics;
+using SFML.System;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,11 +13,23 @@ namespace SFML_Game
 
         protected Texture _texture;
         protected Sprite _sprite;
+        protected RectangleShape _body;
+        protected CollisionsHandler.PhysicsType _physType;
         protected bool physicsOn;
 
         public Sprite GetSprite()
         {
             return _sprite;
+        }
+
+        public RectangleShape GetBody()
+        {
+            return _body;
+        }
+
+        public CollisionsHandler.PhysicsType GetPhysType()
+        {
+            return _physType;
         }
 
         public bool IsPhysicsOn() 
@@ -25,14 +38,19 @@ namespace SFML_Game
         }
         public bool isColliding(GameObject other)
         {
-            FloatRect thisBounds = _sprite.GetGlobalBounds();
-            FloatRect otherBounds= other.GetSprite().GetGlobalBounds();
+            FloatRect thisBounds = _body.GetGlobalBounds();
+            FloatRect otherBounds = other._body.GetGlobalBounds();
 
             return thisBounds.Intersects(otherBounds);
         }
 
-        public abstract void OnCollision(GameObject other);
+        public abstract void OnCollisionEnter(GameObject other);
+        public abstract void OnCollisionStay(GameObject other);
+        public abstract void OnCollisionExit(GameObject other);
 
-
+        public void ApplyPhysics(Vector2f correction)
+        {
+            _body.Position += correction;
+        }
     }
 }

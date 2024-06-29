@@ -1075,19 +1075,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pushe\\.nuget\\packages\\": {}
+    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Cruz Tourret\\Downloads\\IPJ-SFML-1C2024-main(2)\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
       "projectName": "SFML Game",
-      "projectPath": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
-      "packagesPath": "C:\\Users\\Pushe\\.nuget\\packages\\",
-      "outputPath": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\obj\\",
+      "projectPath": "C:\\Users\\Juan Cruz Tourret\\Downloads\\IPJ-SFML-1C2024-main(2)\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
+      "packagesPath": "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juan Cruz Tourret\\Downloads\\IPJ-SFML-1C2024-main(2)\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pushe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juan Cruz Tourret\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1107,11 +1107,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1139,7 +1134,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
