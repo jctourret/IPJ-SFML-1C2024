@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IUkJoqi6jPlaLklY+SMZLbroRXsAgS1nzFEhoQXJYOE7V7AafuawgKh1rW/NE/Az92L4Gf+gAou2S3wB3VZeXg==",
+  "dgSpecHash": "wk5iLqfrqI0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Cruz Tourret\\Downloads\\IPJ-SFML-1C2024-main(2)\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
+  "projectFilePath": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\SFML Game.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\csfml\\2.6.1\\csfml.2.6.1.nupkg.sha512",
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\sfml.audio\\2.6.0\\sfml.audio.2.6.0.nupkg.sha512",
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\sfml.graphics\\2.6.0\\sfml.graphics.2.6.0.nupkg.sha512",
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\sfml.net\\2.6.0\\sfml.net.2.6.0.nupkg.sha512",
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\sfml.system\\2.6.0\\sfml.system.2.6.0.nupkg.sha512",
-    "C:\\Users\\Juan Cruz Tourret\\.nuget\\packages\\sfml.window\\2.6.0\\sfml.window.2.6.0.nupkg.sha512"
+    "C:\\Users\\Pushe\\.nuget\\packages\\csfml\\2.6.1\\csfml.2.6.1.nupkg.sha512",
+    "C:\\Users\\Pushe\\.nuget\\packages\\sfml.audio\\2.6.0\\sfml.audio.2.6.0.nupkg.sha512",
+    "C:\\Users\\Pushe\\.nuget\\packages\\sfml.graphics\\2.6.0\\sfml.graphics.2.6.0.nupkg.sha512",
+    "C:\\Users\\Pushe\\.nuget\\packages\\sfml.net\\2.6.0\\sfml.net.2.6.0.nupkg.sha512",
+    "C:\\Users\\Pushe\\.nuget\\packages\\sfml.system\\2.6.0\\sfml.system.2.6.0.nupkg.sha512",
+    "C:\\Users\\Pushe\\.nuget\\packages\\sfml.window\\2.6.0\\sfml.window.2.6.0.nupkg.sha512"
   ],
   "logs": []
 }

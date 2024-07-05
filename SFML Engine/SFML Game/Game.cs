@@ -29,17 +29,19 @@ namespace SFML_Game
         static uint screenWidth = 800;
         static uint screenHeight = 600;
 
-        GameState gameState;
+        static public GameState gameState;
         public Game()
         {
-            gameState= GameState.Gameplay;
-
-            scenes[(int)GameState.MainMenu] = new MainMenu();
-            scenes[(int)GameState.Gameplay] = new Gameplay();
-            scenes[(int)GameState.Credits] = new Credits();
+            gameState= GameState.MainMenu;
 
             videoMode = new VideoMode(screenWidth, screenHeight);
             window = new RenderWindow(videoMode, "AGUAVSFUEGO");
+            CameraHandler.SetCameraHandler(window);
+
+            scenes[(int)GameState.MainMenu] = new MainMenu(window);
+            scenes[(int)GameState.Gameplay] = new Gameplay();
+            scenes[(int)GameState.Credits] = new Credits();
+
 
             deltaClock = new Clock();
             deltaTime = new Time();
@@ -63,8 +65,10 @@ namespace SFML_Game
             switch (gameState)
             {
                 case GameState.None:
+                    window.Close();
                     break;
                 case GameState.MainMenu:
+                    scenes[(int)GameState.MainMenu].Update(deltaTime);
                     break;
                 case GameState.Gameplay:
                     scenes[(int)GameState.Gameplay].Update(deltaTime);
@@ -82,6 +86,7 @@ namespace SFML_Game
                 case GameState.None:
                     break;
                 case GameState.MainMenu:
+                    scenes[(int)GameState.MainMenu].Draw(window);
                     break;
                 case GameState.Gameplay:
                     scenes[(int)GameState.Gameplay].Draw(window);

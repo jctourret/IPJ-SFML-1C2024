@@ -1,60 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\",
+  "WorkspaceRootPath": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\collisionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\collisionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\handlers\\collisionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\handlers\\collisionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\handlers\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\handlers\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\scenes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\scenes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\scenes\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\scenes\\gameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\sfml game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\sfml game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\game elements\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\game elements\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\utilities\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\utilities\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\scenes\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\scenes\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\c7c2037a06b55fcc59c14e15c7da1eb90b75b51a622516cd8ca43ef76ed492cf\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\archivos\\image campus\\clases\\24-01-ipj\\ipj-sfml-1c2024-main\\ipj-sfml-1c2024-main\\sfml engine\\sfml game\\sfml game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|d:\\git\\ipj012024\\ipj-sfml-1c2024\\sfml engine\\sfml game\\sfml game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B9449368-8BC0-4072-8211-0641E1E4AF58}|SFML Game\\SFML Game.csproj|solutionrelative:sfml game\\sfml game.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -71,7 +87,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 40,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,63 +95,50 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Interactable.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Interactable.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Interactable.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Interactable.cs",
-              "RelativeToolTip": "SFML Game\\Interactable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "DocumentIndex": 5,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Background.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\Background.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Background.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\Background.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:42:59.212Z",
+              "WhenOpened": "2024-07-03T23:34:57.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CollisionsHandler.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\CollisionsHandler.cs",
-              "RelativeDocumentMoniker": "SFML Game\\CollisionsHandler.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\CollisionsHandler.cs",
-              "RelativeToolTip": "SFML Game\\CollisionsHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Scenes\\MainMenu.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\MainMenu.cs",
+              "RelativeToolTip": "SFML Game\\Scenes\\MainMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:18:56.023Z",
+              "WhenOpened": "2024-06-25T02:14:38.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Hazard.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Hazard.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Hazard.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Hazard.cs",
-              "RelativeToolTip": "SFML Game\\Hazard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "DocumentIndex": 13,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Utilities\\Animation.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Utilities\\Animation.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Utilities\\Animation.cs",
+              "RelativeToolTip": "SFML Game\\Utilities\\Animation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwv0sAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T22:10:50.703Z",
+              "WhenOpened": "2024-06-25T02:14:37.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Player.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Player.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Player.cs",
-              "RelativeToolTip": "SFML Game\\Player.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwD4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:35.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "RenderWindow.cs",
               "DocumentMoniker": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\ba83d19450ff73abcd2095add892f8e866b9d9b685a5bb78674d8e664b762c37\\src\\SFML.Graphics\\RenderWindow.cs",
               "ToolTip": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\ba83d19450ff73abcd2095add892f8e866b9d9b685a5bb78674d8e664b762c37\\src\\SFML.Graphics\\RenderWindow.cs",
@@ -145,24 +148,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Scene.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Scene.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Scene.cs",
-              "RelativeToolTip": "SFML Game\\Scene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentIndex": 7,
+              "Title": "Gameplay.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Gameplay.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Scenes\\Gameplay.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Gameplay.cs",
+              "RelativeToolTip": "SFML Game\\Scenes\\Gameplay.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.594Z"
+              "WhenOpened": "2024-06-25T02:14:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hazard.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Hazard.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\Hazard.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Hazard.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\Hazard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:10:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Interactable.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\Interactable.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Interactable.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:42:59.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\GameObject.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\GameObject.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\GameObject.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\GameObject.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:14:38.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraHandler.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Handlers\\CameraHandler.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Handlers\\CameraHandler.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Handlers\\CameraHandler.cs",
+              "RelativeToolTip": "SFML Game\\Handlers\\CameraHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:47:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Player.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\Player.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\Player.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:14:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollisionsHandler.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Handlers\\CollisionsHandler.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Handlers\\CollisionsHandler.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Handlers\\CollisionsHandler.cs",
+              "RelativeToolTip": "SFML Game\\Handlers\\CollisionsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:18:56.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Scenes\\Scene.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Scene.cs",
+              "RelativeToolTip": "SFML Game\\Scenes\\Scene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:14:38.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SFML Game",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\SFML Game.csproj",
+              "RelativeDocumentMoniker": "SFML Game\\SFML Game.csproj",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\SFML Game.csproj",
+              "RelativeToolTip": "SFML Game\\SFML Game.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T22:42:37.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\HUD.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game Elements\\HUD.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game Elements\\HUD.cs",
+              "RelativeToolTip": "SFML Game\\Game Elements\\HUD.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:56:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Game.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Game.cs",
+              "RelativeToolTip": "SFML Game\\Game.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:14:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Credits.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Credits.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Credits.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Credits.cs",
-              "RelativeToolTip": "SFML Game\\Credits.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Credits.cs",
+              "RelativeDocumentMoniker": "SFML Game\\Scenes\\Credits.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Scenes\\Credits.cs",
+              "RelativeToolTip": "SFML Game\\Scenes\\Credits.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T02:14:38.594Z",
@@ -170,58 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Gameplay.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Gameplay.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Gameplay.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Gameplay.cs",
-              "RelativeToolTip": "SFML Game\\Gameplay.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\MainMenu.cs",
-              "RelativeDocumentMoniker": "SFML Game\\MainMenu.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\MainMenu.cs",
-              "RelativeToolTip": "SFML Game\\MainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\GameObject.cs",
-              "RelativeDocumentMoniker": "SFML Game\\GameObject.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\GameObject.cs",
-              "RelativeToolTip": "SFML Game\\GameObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAnwBcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Game.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Game.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Game.cs",
-              "RelativeToolTip": "SFML Game\\Game.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Texture.cs",
               "DocumentMoniker": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\70beb96f7d7db8ed6a49f402c8a9f0b17a751855b2b5f282b2eee0c2abec5a7c\\src\\SFML.Graphics\\Texture.cs",
               "ToolTip": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\70beb96f7d7db8ed6a49f402c8a9f0b17a751855b2b5f282b2eee0c2abec5a7c\\src\\SFML.Graphics\\Texture.cs",
@@ -231,37 +318,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Program.cs",
               "RelativeDocumentMoniker": "SFML Game\\Program.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Program.cs",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\Program.cs",
               "RelativeToolTip": "SFML Game\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:38.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T02:14:38.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Animation.cs",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Animation.cs",
-              "RelativeDocumentMoniker": "SFML Game\\Animation.cs",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\Animation.cs",
-              "RelativeToolTip": "SFML Game\\Animation.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwEsAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T02:14:37.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "SFML Game",
-              "DocumentMoniker": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
+              "DocumentMoniker": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\SFML Game.csproj",
               "RelativeDocumentMoniker": "SFML Game\\SFML Game.csproj",
-              "ToolTip": "D:\\Archivos\\Image Campus\\Clases\\24-01-IPJ\\IPJ-SFML-1C2024-main\\IPJ-SFML-1C2024-main\\SFML Engine\\SFML Game\\SFML Game.csproj",
+              "ToolTip": "D:\\Git\\IPJ012024\\IPJ-SFML-1C2024\\SFML Engine\\SFML Game\\SFML Game.csproj",
               "RelativeToolTip": "SFML Game\\SFML Game.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-25T02:14:38.591Z",
@@ -269,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "List.cs",
               "DocumentMoniker": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\c7c2037a06b55fcc59c14e15c7da1eb90b75b51a622516cd8ca43ef76ed492cf\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
               "ToolTip": "C:\\Users\\Juan Cruz Tourret\\AppData\\Local\\SourceServer\\c7c2037a06b55fcc59c14e15c7da1eb90b75b51a622516cd8ca43ef76ed492cf\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
